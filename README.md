@@ -1,61 +1,66 @@
-# mern-bookstore-app
+# 📚 MERN Bookstore App
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Node.js CI](https://img.shields.io/badge/node-%3E%3D14-brightgreen.svg)](https://nodejs.org/) [![Last Commit](https://img.shields.io/github/last-commit/Rohitlakha/mern-bookstore-app)](https://github.com/Rohitlakha/mern-bookstore-app/commits/main) ![Repo Size](https://img.shields.io/github/repo-size/Rohitlakha/mern-bookstore-app)
-
-
-> **Full‑stack Bookstore web application built with the MERN stack** — MongoDB, Express, React (Vite or CRA), and Node.js. Features user authentication, categorized books (Free, Paid, Prime), admin book management, and a responsive UI styled with Tailwind CSS.
-
----
-
-## Table of Contents
-- [Demo & Screenshots](#demo--screenshots)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Repository Structure](#repository-structure)
-- [Requirements](#requirements)
-- [Quick Start (A → Z)](#quick-start-a--z)
-  - [1. Clone repository](#1-clone-repository)
-  - [2. Setup backend](#2-setup-backend)
-  - [3. Setup frontend](#3-setup-frontend)
-  - [4. Seed database (optional)](#4-seed-database-optional)
-  - [5. Run app (development)](#5-run-app-development)
-  - [6. Build & deploy (production)](#6-build--deploy-production)
-- [Environment Variables](#environment-variables)
-- [Common Commands](#common-commands)
-- [Testing](#testing)
-- [Deployment Suggestions](#deployment-suggestions)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Node](https://img.shields.io/badge/Node.js-%3E%3D14-brightgreen?logo=node.js)
+[![Last Commit](https://img.shields.io/github/last-commit/Rohitlakha/mern-bookstore-app?color=blue)](https://github.com/Rohitlakha/mern-bookstore-app/commits/main)
+![Repo Size](https://img.shields.io/github/repo-size/Rohitlakha/mern-bookstore-app?color=orange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Lakha-blue?logo=linkedin)](https://www.linkedin.com/in/rohit-lakha)
+[![GitHub](https://img.shields.io/badge/GitHub-Rohitlakha-black?logo=github)](https://github.com/Rohitlakha)
 
 ---
 
-## Demo & Screenshots
-> Add screenshots or a demo GIF here to make the repo stand out. Place images in `/assets/screenshots/` and reference them here.
-
-![screenshot-1](https://github.com/Rohitlakha/mern-bookstore-app/blob/e5e4c74f18f444f073846a2c51f4e588d3f80e49/Frontend/public/Screenshot.png)
+> **A Full-stack Bookstore Web Application built using the MERN Stack (MongoDB, Express, React, Node.js)** — featuring **JWT authentication**, **role-based access**, **categorized books (Free, Paid, Prime)**, and a **modern Tailwind CSS responsive UI**.
 
 ---
 
-## Features
-- User registration & login (JWT authentication)
-- Role-based access (User / Admin)
-- Book categories: Free, Paid, Prime
-- Add / Edit / Delete books (Admin)
-- Responsive UI built with Tailwind CSS
-- Local seeding support for development
-- Secure password hashing with bcrypt
+## 🧭 Table of Contents
+- [📸 Demo & Screenshots](#-demo--screenshots)
+- [✨ Features](#-features)
+- [🧠 Tech Stack](#-tech-stack)
+- [📂 Repository Structure](#-repository-structure)
+- [⚙️ Requirements](#️-requirements)
+- [🚀 Quick Start (A → Z)](#-quick-start-a--z)
+- [🔐 Environment Variables](#-environment-variables)
+- [🧩 Common Commands](#-common-commands)
+- [🧪 Testing](#-testing)
+- [🌍 Deployment Suggestions](#-deployment-suggestions)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📬 Contact](#-contact)
 
 ---
 
-## Tech Stack
-- **Frontend:** React (+ Vite or Create React App), React Router, Tailwind CSS
-- **Backend:** Node.js, Express, Mongoose
-- **Database:** MongoDB (Atlas or local)
-- **Auth:** JSON Web Tokens (JWT)
-- **Dev tools:** nodemon, concurrently (optional)
+## 📸 Demo & Screenshots
+
+![App Screenshot](https://github.com/Rohitlakha/mern-bookstore-app/blob/e5e4c74f18f444f073846a2c51f4e588d3f80e49/Frontend/public/Screenshot.png)
 
 ---
+
+## ✨ Features
+- 🔑 User registration & login (JWT authentication)
+- 🧍 Role-based access (User / Admin)
+- 📚 Book categories — Free, Paid, Prime
+- 📝 Admin CRUD operations (Add / Edit / Delete books)
+- 🌐 Responsive UI with **Tailwind CSS**
+- 🧩 Local seeding support for development
+- 🔒 Secure password hashing with **bcrypt**
+
+---
+
+## 🧠 Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | React (Vite / CRA), React Router, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Mongoose |
+| **Database** | MongoDB (Atlas / Local) |
+| **Authentication** | JSON Web Token (JWT) |
+| **Dev Tools** | Nodemon, Concurrently |
+
+---
+
+## 📂 Repository Structure
+
 
 ## Repository Structure
 ```
@@ -85,27 +90,28 @@ mern-bookstore-app/
 
 ---
 
-## Requirements
-- Node.js v14+ (recommended LTS)
+
+## ⚙️ Requirements
+- Node.js v14+ (Recommended LTS)
 - npm v6+ or yarn
-- MongoDB (Atlas account or local instance)
+- MongoDB (Atlas or Local Instance)
 
 ---
 
-## Quick Start (A → Z)
-Follow these steps to get the project running locally.
+## 🚀 Quick Start (A → Z)
 
-### 1. Clone repository
+### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/Rohitlakha/mern-bookstore-app.git
 cd mern-bookstore-app
 ```
 
-### 2. Setup backend
+### 2️⃣ Setup Backend
 ```bash
 cd backend
 # install dependencies
 npm install
+```
 
 # create .env from example
 cp .env.example .env    # Linux / macOS
