@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A wonderful collection of short moral stories for young readers.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/children-s-fairy-tale-book-concept_23-2148537092.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Science Book",
+    "title": "Learn the wonders of science through simple experiments and facts.",
+    "price": 10,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/science-laboratory-concept-illustration_114360-2186.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Math Book",
+    "title": "Mathematics made fun with puzzles, problems, and real-world examples.",
+    "price": 15,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/mathematics-concept-illustration_114360-4024.jpg"
+  },
+  {
+    "id": 4,
+    "name": "History Book",
+    "title": "Discover ancient civilizations and their untold stories.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/historical-book-concept_23-2148537101.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Geography Book",
+    "title": "Explore the world’s physical and political boundaries in detail.",
+    "price": 12,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/geography-subject-illustration_23-2148550874.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Literature Book",
+    "title": "A collection of timeless literary works and poetry.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/open-book-with-butterflies_1284-23892.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Programming Book",
+    "title": "Learn coding fundamentals with hands-on projects and examples.",
+    "price": 25,
+    "category": "Prime",
+    "image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1671.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Art Book",
+    "title": "A guide to drawing, painting, and digital design.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/art-creative-design-concept_23-2148537088.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Business Book",
+    "title": "Master entrepreneurship, finance, and management techniques.",
+    "price": 30,
+    "category": "Prime",
+    "image": "https://img.freepik.com/free-vector/businessman-concept-illustration_114360-1921.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Health & Fitness Book",
+    "title": "Maintain your body and mind with healthy lifestyle tips.",
+    "price": 8,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/fitness-concept-illustration_114360-3804.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Technology Book",
+    "title": "Understand AI, robotics, and the future of digital innovation.",
+    "price": 35,
+    "category": "Prime",
+    "image": "https://img.freepik.com/free-vector/technology-concept-illustration_114360-6261.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Philosophy Book",
+    "title": "Dive into the deep questions of existence and logic.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/abstract-philosophy-concept_23-2148541261.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullname": "Rohit Lakha",
+    "email": "rohitlakha@example.com",
+    "password": "Rohit@123"
+  },
+  {
+    "fullname": "Simran Kaur",
+    "email": "simran.kaur@example.com",
+    "password": "Simran@456"
+  },
+  {
+    "fullname": "Amit Sharma",
+    "email": "amit.sharma@example.com",
+    "password": "Amit@789"
+  },
+  {
+    "fullname": "Neha Verma",
+    "email": "neha.verma@example.com",
+    "password": "Neha@101"
+  },
+  {
+    "fullname": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "password": "Arjun@202"
+  },
+  {
+    "fullname": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "password": "Priya@303"
+  }
+]
