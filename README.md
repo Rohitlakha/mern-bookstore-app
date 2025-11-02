@@ -33,7 +33,7 @@
 ## Demo & Screenshots
 > Add screenshots or a demo GIF here to make the repo stand out. Place images in `/assets/screenshots/` and reference them here.
 
-![screenshot-1](assets/screenshots/home.png)
+![screenshot-1](https://github.com/Rohitlakha/mern-bookstore-app/blob/e5e4c74f18f444f073846a2c51f4e588d3f80e49/Frontend/public/Screenshot.png)
 
 ---
 
